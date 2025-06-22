@@ -7,5 +7,5 @@ I am fortunate to work under the supervision of Prof. [Jing Liao](https://schola
 - :satellite: Before that, I learned astrophyics at USTC.
 - 📫 How to reach me: qisun.new@gmail.com
 
-[![data](https://github-readme-stats.vercel.app/api?username=qsun1)]()
+[![data](https://github-readme-stats.vercel.app/api?username=qiisun)]()
 
